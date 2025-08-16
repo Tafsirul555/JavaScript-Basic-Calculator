@@ -12,7 +12,7 @@ function multiplication(a, b) {
 
 function division(a, b) {
     if (b ===0) {
-        return "Error: Division by zero is not allowed";
+        return "Error";
     }
     return a / b;
 }
